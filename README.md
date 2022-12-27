@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # EVALUACIÓN TÉCNICA NUXIBA #
 
@@ -66,3 +67,6 @@ Para esta prueba será necesario agregar (al directorio **Prueba_2**) las senten
 Si tienes alguna duda sobre la evaluación puedes mandar un correo electrónico a [desarrollo@nuxiba.com](mailto:desarrollo@nuxiba.com?subject=Dudas%20sobre%20evaluación%20técnica)
 
 Manda la liga de tu repositorio público a [Verónica Llerenas](mailto:vllerenas@nuxiba.com?subject=[EvaluaciónDesarrollo]%20Este%20es%20mi%20repositorio)
+=======
+# Herrera Ulibarri Carlos Alberto
+>>>>>>> dc99e7a6285f65130a5b5df955f0704e5946bafc
